@@ -1,4 +1,4 @@
-<img width="1440" alt="Screenshot 2025-02-05 at 7 40 24 PM" src="https://github.com/user-attachments/assets/dbf8027e-8632-43c9-acc1-3087020837c5" /># Simple-portfolio
+# Simple-portfolio
 
 # Portfolio Website
 
@@ -17,5 +17,5 @@ This is a **simple portfolio website** built using **HTML and CSS**. It showcase
 - **Font Awesome Icons**
 
 ## 📸 Preview
-
-
+<img width="1440" alt="Screenshot 2025-02-05 at 7 40 24 PM" src="https://github.com/user-attachments/assets/dbf8027e-8632-43c9-acc1-3087020837c5" />
+<img width="1440" alt="Screenshot 2025-02-05 at 7 40 34 PM" src="https://github.com/user-attachments/assets/2e769f6d-01c4-4c3e-81f9-327990ebfb26" />
